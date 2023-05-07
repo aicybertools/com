@@ -1,7 +1,6 @@
 
 how to install with ubuntu codecanyon php script in vultr with filezilla
 
-ChatGPT
 To install a PHP script from CodeCanyon on a Vultr Ubuntu server using FileZilla, you can follow these steps:
 
 First, you need to set up your Vultr server. You can create a new instance with Ubuntu as the operating system and set up SSH access.
