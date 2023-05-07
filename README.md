@@ -32,6 +32,7 @@ Navigate to the /var/www/html/ directory on your server using FileZilla.
 Upload the extracted PHP script files to the /var/www/html/ directory.
 
 Open a web browser and navigate to the IP address of your Vultr server. You should see the homepage of your PHP script.
+I have installed this script on my website check it aicybertools.com
 
 Follow the installation instructions provided by your PHP script to complete the installation process.
 
